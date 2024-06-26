@@ -1,2 +1,3 @@
-# cz-uni-graduation-stats
-Statistická práce
+# Analýza uživatelských profilů pro ecommerce
+
+## Využitá data
